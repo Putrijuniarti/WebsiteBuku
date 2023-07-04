@@ -14,11 +14,11 @@ const router = createRouter({
       name: 'home',
       component: BerandaView,
     },
-    {
-      path: '/updateapi/:kode',
-      name: 'updateapi',
-      component: updateapi,
-    },
+    // {
+    //   path: '/updateapi/:kode',
+    //   name: 'updateapi',
+    //   component: updateapi,
+    // },
     {
       path: '/allkategori',
       name: 'kategori',
