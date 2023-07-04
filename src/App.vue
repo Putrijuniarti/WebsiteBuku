@@ -1,7 +1,7 @@
 <script setup>
- import BerandaView from './views/BerandaView.vue';
+ import BerandaView from "@/views/BerandaView.vue";
  </script>
+
 <template>
- <BerandaView />
-  
+  <router-view></router-view>
 </template>
