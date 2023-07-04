@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router';
 // import LandingPage from '../views/LandingPage.vue';
-import updateapi from '../views/updateapi.vue';
+// import updateapi from '../views/updateapi.vue';
 import BerandaView from '../views/BerandaView.vue';
 import allKategori from "@/views/allKategori.vue";
 import smuaAnggota from "@/views/smuaAnggota.vue";
